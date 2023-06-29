@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DemonSlayerCharacter</string>
+    <string name="search_demon_slayer">Cari Karakter</string>
+    <string name="scroll_to_top">Gulir ke Atas</string>
+
+    <!-- About -->
+    <string name="about_name">Mochammad Adhi Buchori</string>
+    <string name="about_email">adhi.buchori@gmail.com</string>
+    <string name="about_me">About Me</string>
+
+    <!-- Favourite   -->
+    <string name="favourite_character">Favourite Character</string>
+
+    <!-- Detail   -->
+    <string name="detail_character">Detail Character</string>
+</resources>
